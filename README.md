@@ -1,6 +1,6 @@
 # heroku-noDB
 
-Node/Express w/o db
+## Node/Express w/o db
 
 make sure you have Heroku CLI installed
 log in to heroku.com
